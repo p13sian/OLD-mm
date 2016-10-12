@@ -9,8 +9,7 @@
 
 ##Παραδοτέο 1
 ΘΕΜΑ ΕΡΓΑΣΙΑΣ :
-Interactive visualization 
-(ΔΙΑΔΡΑΣΤΙΚΗ ΑΠΕΙΚΟΝΙΣΗ)
+Interactive visualization (Processing)
 
 ...
 
