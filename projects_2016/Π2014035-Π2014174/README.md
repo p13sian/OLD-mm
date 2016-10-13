@@ -7,7 +7,7 @@
 
 ##Παραδοτέο 1
 	
-	Θέμα εργασίας: "Twitter visualization"
+	Θέμα εργασίας: "twitter visualization (flutrack) with Bivariate Hexbin Map (D3JS) (http://bl.ocks.org/mbostock/4330486)"
 
 ##Παραδοτέο 2
 
