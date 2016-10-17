@@ -1,11 +1,10 @@
-#Τίτλος Εργασίας: Augmented D&D
-
-Σκεντερίδης Κωνσταντίνος
-Π2014221
+#Τίτλος Εργασίας: Geographic System
+Κωτσόπουλος Παύλος
+Π2014222
 
 ##Παραδοτέο 1
 
-Augmented Reality Application
+Geographic System
 
 ##Παραδοτέο 2
 
