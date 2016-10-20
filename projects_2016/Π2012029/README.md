@@ -13,14 +13,6 @@
 ###(Παρουσίαση πρωτοτύπου της εφαρμογής)
 
 
-(https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/player1.jpg)
-
-![Image]()
-
-![Image]()
-
-
-
 ##Παραδοτέο 3
 ###(Τελική παρουσίαση)
 
@@ -33,8 +25,6 @@
 
 **Εισαγωγή**
 
-Τέλος, η ανάπτυξη του Video Analytics βασίστηκε σε ήδη υπάρχον κώδικα ο οποίος βρίσκεται στο github (https://github.com/ssagiadin/videoanalytics).
-
 
 **Επιλογή εργαλείων**
 
@@ -46,7 +36,7 @@
 
 
 **Διάγραμμα λειτουργίας**
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/videoanalytics.png)
+
 
 **Ενδεικτικές οθόνες**
 
