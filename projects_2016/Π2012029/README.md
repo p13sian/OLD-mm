@@ -1,4 +1,4 @@
-#Τ>Twitter Visualization
+#Twitter Visualization
 
 Παντελής Ιωάννου
 
