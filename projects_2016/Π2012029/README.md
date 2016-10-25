@@ -1,4 +1,4 @@
-#Twitter Visualization
+#Twitter Visualization(HeatMap)
 
 ####Παντελής Ιωάννου---ΑΜ: Π2012029
 
