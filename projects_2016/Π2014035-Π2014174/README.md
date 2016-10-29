@@ -23,3 +23,23 @@
 ##Tελική Αναφορά
 
 ...
+##bonus (links από εικόνες) Παναγιώτης Σωτήριος Ζουγγουρίδης
+1. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch01/uber_screenshot_ch1.jpg
+
+2. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch03/itunes_new_ch3.png
+
+3. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch04/arduino_ch4.png
+
+4. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch04/arduino_rover_ch4.jpg
+
+5. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch04/scratch_ch4.png
+
+6. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch05/Media-Space-office-meeting_ch5.jpg
+
+7. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch05/fb%40work_ch5.png
+
+8. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch05/ios6_panorama_ch5.jpg
+
+9. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch06/Hackathon_ch6.jpg
+
+10. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch06/memex_ch6.jpg
