@@ -43,3 +43,6 @@
 9. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch06/Hackathon_ch6.jpg
 
 10. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch06/memex_ch6.jpg
+
+##Bonus Α (10 νέες παραθέσεις) Μιχαήλ-Χ. Παγκρακιώτης Π2014035
+ 	https://github.com/Mikepag/pibookgr/tree/gh-pages/_quotes/Quotes
