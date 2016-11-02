@@ -23,11 +23,11 @@
 Προσθήκη επιπλέον κουμπιών στον player τα οποία μπορεί ο χρήστης να επιλέξει αν θέλει να εμφανίζονται η όχι. Αυτό γίνεται μέσω μία φόρμας στη σελίδα που μπορεί ο διαχειριστής να επεξεργαστεί τα βίντεο του.
 Για την υλοποίηση και του σχεδιασμό του player χρησιμοποιήθηκε jquery ui και για την υλοποίηση της φόρμας jquery mobile.
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/player1.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/player1.jpg)
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/player2.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/player2.jpg)
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/form.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/form.jpg)
 
 
 
@@ -46,15 +46,15 @@
 
 * Προσθήκη κουμπιών για download των δεδομένων.
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/4.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/4.jpg)
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/5.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/5.jpg)
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/6.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/6.jpg)
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/7.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/7.jpg)
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/8.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/8.jpg)
 
 
 
@@ -91,19 +91,19 @@ To Video Analytics είναι μία διαδικτυακή εφαρμογή π�
 Απο τη στιγμή που ο χρήστης πρόσθεσε κάποιο βίντεο, μπορεί πατώντας το κουμπί Embed και διαβάζοντας τις οδηγίες να ενσωματώσει το βίντεο στην ιστοσελίδα του. Αξίζει να αναφερθεί ότι μπορεί στην ίδια σελίδα να ενσωματώσει περισσότερα από ένα βίντεο τα οποία καθένα να έχει διαφορετικό skin και χρώματα και να παίζουν ταυτόχρονα. Στη συνέχεια, μπορεί να δει την δραστηριότητα των χρηστών πάνω στο βίντεο από το διάγραμμα της χρονοσειράς που παρέχει το σύστημα και επίσης μπορεί να κατεβάσει τα δεδομένα(σε αρχείο CSV) με τα οποία σχηματίστηκε η χρονοσειρα. Τα δεδομένα που εμφανίζονται στο διάγραμμα περιλαμβάνουν όλο το διάστημα από το skip που έκανε ο χρήστης με τη μπάρα. Επίσης, σε κάθε δευτερόλεπτο για κάθε forward ο μετρητής μειώνεται κατα 2, ενώ για κάθε backward αυξάνεται κατα 2. Συνεχίζοντας, μπορεί να κατεβάσει τα δεδομένα με τις διαδράσεις των χρηστών σε αρχείο CSV το οποίο περιέχει το είδος, τη χρονική στιγμή του βίντεο και την ημερομηνια και ώρα της διάδρασης. 
 
 **Διάγραμμα λειτουργίας**
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/videoanalytics.png)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/videoanalytics.png)
 
 **Ενδεικτικές οθόνες**
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/9.jpg)
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/10.jpg)
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/11.jpg)
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/12.jpg)
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/13.jpg)
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/14.jpg)
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/15.jpg)
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/16.jpg)
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/17.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/9.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/10.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/11.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/12.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/13.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/14.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/15.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/16.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012000/17.jpg)
 
 
 **Μελλοντική δουλειά**
