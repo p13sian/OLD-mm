@@ -6,7 +6,7 @@
 
 ##Παραδοτέο 1
 	
-	Θέμα εργασίας: "twitter visualization (flutrack) with Bivariate Hexbin Map (D3JS) (http://bl.ocks.org/mbostock/4330486)"
+	παλιό Θέμα εργασίας: "twitter visualization (flutrack) with Bivariate Hexbin Map (D3JS) (http://bl.ocks.org/mbostock/4330486)"
  λόγω errors που βγάζει κατά την προσπάθεια να τρέξουμε το flutrack μέσω του apache σύμφωνα με τις οδηγίες, καταλήγουμε στην αλλαγή θέματος για να μη μείνουμε χωρίς παραδοτέο και στην ενασχόληση με Unreal Engine 4
  
  	νέο Θέμα εργασίας: "Unreal Engine 4"
