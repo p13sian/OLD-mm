@@ -7,7 +7,9 @@
 ##Παραδοτέο 1
 	
 	Θέμα εργασίας: "twitter visualization (flutrack) with Bivariate Hexbin Map (D3JS) (http://bl.ocks.org/mbostock/4330486)"
-
+ λόγω errors που βγάζει κατά την προσπάθεια να τρέξουμε το flutrack μέσω του apache σύμφωνα με τις οδηγίες, καταλήγουμε στην αλλαγή θέματος για να μη μείνουμε χωρίς παραδοτέο και στην ενασχόληση με Unreal Engine 4
+ 
+ 	νέο Θέμα εργασίας: "Unreal Engine 4"
 ##Παραδοτέο 2
 
 ...
@@ -23,7 +25,7 @@
 ##Tελική Αναφορά
 
 ...
-##bonus (links από εικόνες) Παναγιώτης Σωτήριος Ζουγγουρίδης
+##bonus (links από εικόνες) Παναγιώτης Σωτήριος Ζουγγουρίδης Π2014174
 1. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch01/uber_screenshot_ch1.jpg
 
 2. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch03/itunes_new_ch3.png
