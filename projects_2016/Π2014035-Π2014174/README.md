@@ -7,12 +7,36 @@
 ##Παραδοτέο 1
 	
 	παλιό Θέμα εργασίας: "twitter visualization (flutrack) with Bivariate Hexbin Map (D3JS) (http://bl.ocks.org/mbostock/4330486)"
- λόγω errors που βγάζει κατά την προσπάθεια να τρέξουμε το flutrack μέσω του apache σύμφωνα με τις οδηγίες, καταλήγουμε στην αλλαγή θέματος για να μη μείνουμε χωρίς παραδοτέο και στην ενασχόληση με Unreal Engine 4
+ Λόγω errors που βγάζει κατά την προσπάθεια να τρέξουμε το flutrack μέσω του apache σύμφωνα με τις οδηγίες, καταλήγουμε στην αλλαγή   θέματος για να μη μείνουμε χωρίς παραδοτέο και στην ενασχόληση με Unreal Engine 4.
  
  	νέο Θέμα εργασίας: "Unreal Engine 4"
+	
+	
 ##Παραδοτέο 2
-link για παραπομπή σε google docs της αναφοράς μας
-https://docs.google.com/document/d/1gumD67EC5_mYALyJjOXvCN3ttcUa_fCxNkEwAa6kVcg/edit?usp=sharing
+Αναφορά Πολυμέσα
+
+Αρχικά πήραμε ένα έτοιμο παράδειγμα το οποίο υπάρχει προεγκατεστημένο από την unreal και αποτελεί την βάση για την ανάπτυξη παιχνιδιών με αυτοκίνητα. Αυτό το παράδειγμα ουσιαστικά είναι ένα έτοιμο παιχνίδι στο οποίο ο χρήστης απλά κινεί το όχημα μέσα σε μια έτοιμη πίστα. Οι αλλαγές που κάναμε ήταν οτι διαγράψαμε την προυπάρχουσα πίστα και φτιάξαμε μια από την αρχή προκειμένου να πειραματιστούμε με τα εργαλεία της ue4 σε οτι έχει να κάνει με το γραφικό περιβάλλον. 
+
+Οι αλλαγές που θα θέλαμε να κάνουμε στη συνέχεια είναι οι εξής:
+1) Προσθήκη checkpoints σύμφωνα με tutorial της ue4 μιας και το παιχνίδι θέλουμε να ανήκει στη κατηγορία time attack. 
+2) Δημιουργία ενός πιο ρεαλιστικού και όμορφου κόσμου (περισσότερα textures, χλωρίδα, αλλαγές στην τωρινή ομοιόμορφη επιφάνεια του εδάφους, φωτισμός, προσθήκη skin στο όχημα).
+
+Playlist από την οποία θα υλοποιήσουμε το time attack:
+https://www.youtube.com/playlist?list=PLZlv_N0_O1gZAjYuGIwtOHigppYa3CVLh
+
+ενδεικτικές εικόνες από την πίστα που φτιάξαμε παρακάτω..
+
+![screenshot0](https://cloud.githubusercontent.com/assets/15000701/20115925/d2d5713c-a602-11e6-972a-aa07c56a613d.jpg)
+
+![screenshot1](https://cloud.githubusercontent.com/assets/15000701/20115952/f043f086-a602-11e6-92fb-c1e26bc6b28a.jpg)
+
+![screenshot2](https://cloud.githubusercontent.com/assets/15000701/20115957/fa703b32-a602-11e6-892b-00760dde1f4e.jpg)
+
+![screenshot3](https://cloud.githubusercontent.com/assets/15000701/20115982/102b900c-a603-11e6-9ccf-2d75cda6afab.jpg)
+
+![screenshot4](https://cloud.githubusercontent.com/assets/15000701/20116184/f7f9cda4-a603-11e6-82f5-9d55da70f05a.jpg)
+
+![screenshot5](https://cloud.githubusercontent.com/assets/15000701/20116714/0ce955ac-a606-11e6-996c-8955c3824de0.jpg)
 
 
 ##Παραδοτέο 3
