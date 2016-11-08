@@ -11,8 +11,9 @@
  
  	νέο Θέμα εργασίας: "Unreal Engine 4"
 ##Παραδοτέο 2
+link για παραπομπή σε google docs της αναφοράς μας
+https://docs.google.com/document/d/1gumD67EC5_mYALyJjOXvCN3ttcUa_fCxNkEwAa6kVcg/edit?usp=sharing
 
-...
 
 ##Παραδοτέο 3
 
