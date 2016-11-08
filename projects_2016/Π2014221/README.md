@@ -70,21 +70,20 @@ Augmented Reality Application
 
 **(**διάφορα γρήγορα σκίτσα και κείμενο στα οποία σχεδίασα πώς ήθελα να λειτουργεί η εφαρμογή**)**
 
-<img src="./media/image4.jpeg" width="718" height="403" /><img src="./media/image5.jpeg" width="718" height="509" />
-
+![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/%CE%A02014221/Images/AugmentationToolForDnD_roughSketch.jpg)![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/Sketching_zpsxzqycbyj.jpg)
 **ΕΙΚΟΝΕΣ**
 
-<img src="./media/image6.jpeg" width="365" height="273" /><img src="./media/image7.jpeg" width="361" height="270" />**(**διάφορες εικόνες από την εφαρμογή**)**
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081557_zps7iqvlbya.jpg) />**(**διάφορες εικόνες από την εφαρμογή**)**
 
-<img src="./media/image8.jpeg" width="365" height="273" /><img src="./media/image9.jpeg" width="363" height="273" />
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081558_zpsath3iwj9.jpg)![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081559_zpsgzycj0tp.jpg)
 
-<img src="./media/image10.jpeg" width="345" height="259" />
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081560_zpstwzjkbc5.jpg)
 
-<img src="./media/image11.jpeg" width="461" height="345" />
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081561_zpsnp4exchi.jpg)
 
-<img src="./media/image12.jpeg" width="454" height="341" />
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081564_zpswjc6tv2z.jpg)
 
-<img src="./media/image13.jpeg" width="453" height="339" />
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081565_zpsnubbn3dp.jpg)
 
 
 ##Παραδοτέο 3
