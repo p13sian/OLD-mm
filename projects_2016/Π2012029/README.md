@@ -25,7 +25,11 @@
 Ο αρχικός πηγαίο κώδικα της εργασίας μου είνα αυτός: https://github.com/PantelisIoannou/Live-Sentiment-Heatmap
 
 ####Αλλαγές από τον κώδικα που παραδειγματίστηκα:
-  
+
+1)Αλλαγή του module που συνδέεται στο twitter app stream.
+2)Αλλαγή χάρτη google maps και ειδικό customization.
+3)Αλλαγή της βιβίοθήλης leaflet η οποία δεν ταιριάζει στο data rate του twitter app stream.
+4)
 
 ##Παραδοτέο 3
 ###(Τελική παρουσίαση)
