@@ -11,7 +11,8 @@ Augmented Reality Application
 
 ΓΡΑΠΤΗ ΑΝΑΦΟΡΑ---
 
-![Diagramma leitourgias](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/DungeonsAndDragonsLogo_zps0hrx2zpp.jpg)**Δημιουργία εφαρμογής Augmented Reality**
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/DungeonsAndDragonsLogo_zps0hrx2zpp.jpg)
+**Δημιουργία εφαρμογής Augmented Reality**
 
 ***AUGMENTED DUNGEONS & DRAGONS***
 
@@ -41,7 +42,7 @@ Augmented Reality Application
 
 Εδώ βλέπουμε 2 από τα tracking μοτίβα που χρησιμοποιώ στα παραδείγματα.
 
-<img src="./media/image2.jpg" width="219" height="219" /><img src="./media/image3.jpg" width="219" height="219" />
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/previewTracking1_zpshyuju08r.jpg)![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/previewTracking2_zpslcahe2u4.jpg)
 
 Η κάμερα όταν δει και καταλάβει αυτά τα μοτίβα, εμφανίζει επάνω τους το ανάλογο 3D αντικείμενο που έχει οριστεί στην Unity.
 
