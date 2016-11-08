@@ -72,8 +72,8 @@ Augmented Reality Application
 
 ![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/%CE%A02014221/Images/AugmentationToolForDnD_roughSketch.jpg)![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/Sketching_zpsxzqycbyj.jpg)
 **ΕΙΚΟΝΕΣ**
-
-![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081557_zps7iqvlbya.jpg) />**(**διάφορες εικόνες από την εφαρμογή**)**
+**(**διάφορες εικόνες από την εφαρμογή**)**
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081557_zps7iqvlbya.jpg)
 
 ![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081558_zpsath3iwj9.jpg)![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081559_zpsgzycj0tp.jpg)
 
@@ -84,6 +84,8 @@ Augmented Reality Application
 ![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081564_zpswjc6tv2z.jpg)
 
 ![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081565_zpsnubbn3dp.jpg)
+
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081566_zpsmzmvhgmx.jpg)
 
 
 ##Παραδοτέο 3
