@@ -11,7 +11,7 @@ Augmented Reality Application
 
 ΓΡΑΠΤΗ ΑΝΑΦΟΡΑ---
 
-<img src="./media/image1.jpg" width="499" height="141" />**Δημιουργία εφαρμογής Augmented Reality**
+![Diagramma leitourgias](http://s1380.photobucket.com/user/Konstantinos_Skenteridis/media/DungeonsAndDragonsLogo_zps0hrx2zpp.jpg.html)**Δημιουργία εφαρμογής Augmented Reality**
 
 ***AUGMENTED DUNGEONS & DRAGONS***
 
