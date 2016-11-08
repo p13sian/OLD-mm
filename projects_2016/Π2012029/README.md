@@ -22,7 +22,7 @@
 
 ![Image](https://github.com/PantelisIoannou/Multipro/blob/master/images/sentimentmap.PNG)
 
-Ο αρχικός πηγαίο κώδικα της εργασίας μου είνα αυτός: https://github.com/PantelisIoannou/Multiproject
+Ο αρχικός πηγαίο κώδικα της εργασίας μου είνα αυτός: https://github.com/PantelisIoannou/Live-Sentiment-Heatmap
 
 ##Παραδοτέο 3
 ###(Τελική παρουσίαση)
