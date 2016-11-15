@@ -38,6 +38,12 @@
 
 ####Βιβλιοθήκες και module που χρησιμοποίησα για την εργασία
 
+Για την κατασκευή και την σωστή λειτουργία της εφαρμογή,από την μεριά του fronted χρησιμοποίησα,αρκετές βιβλιοθήλες της javascript,όπως:
+1)JQuery- http://jquery.com/
+2)AngularJs- https://angularjs.org/ 
+3)Angular(Animate)- https://docs.angularjs.org/guide/animations
+4)Socket.io- http://socket.io/
+
 ##Παραδοτέο 3
 ###(Τελική παρουσίαση)
 
