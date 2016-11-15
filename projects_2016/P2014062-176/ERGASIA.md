@@ -14,7 +14,7 @@ New media applications (Unreal engine)
 
 ##Παραδοτέο 2
 
-Σε αυτό το αρχείο υπάρχει το παραδοτέο 2 σε power point
+Σε αυτό το link υπάρχει το παραδοτέο 2 σε power point
 
 https://www.dropbox.com/s/pa0vljc8y4aj062/Paradoteo%202.odp?dl=0
 
