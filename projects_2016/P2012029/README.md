@@ -40,13 +40,22 @@
 
 Για την κατασκευή και την σωστή λειτουργία της εφαρμογή,από την μεριά του fronted χρησιμοποίησα,αρκετές βιβλιοθήλες της javascript,όπως:
 
-1)JQuery- http://jquery.com
+1)JQuery--http://jquery.com
 
-2)AngularJs- https://angularjs.org
+2)AngularJs--https://angularjs.org
 
-3)Angular(Animate)- https://docs.angularjs.org/guide/animations
+3)Angular(Animate)--https://docs.angularjs.org/guide/animations
 
-4)Socket.io- http://socket.io
+4)Socket.io--http://socket.io
+
+####Εκτέλεση κώδικα
+1)Λήψη του κώδικα
+
+2)Εγκατάσταση γλώσσας node.js και εγκατάσταση module express για την δυνατότητα δημιουργίας του server έυκολα με την node.js
+Λήψη Node.js--https://nodejs.org
+
+Λήψη Express--http://expressjs.com
+
 
 ##Παραδοτέο 3
 ###(Τελική παρουσίαση)
