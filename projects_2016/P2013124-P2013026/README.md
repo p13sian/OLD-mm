@@ -29,4 +29,4 @@ Link : https://www.youtube.com/watch?v=mSRov77hNR4&list=PLZlv_N0_O1gYup-gvJtMsgJ
 ![2016-11-16 22_16_14-batterycollector - unreal editor](https://cloud.githubusercontent.com/assets/17496439/20364109/9842cca6-ac4a-11e6-9dfe-4652d968278d.jpg)
 ![2016-11-16 22_16_34-batterycollector - unreal editor](https://cloud.githubusercontent.com/assets/17496439/20364108/983c2c48-ac4a-11e6-835c-cf09c24e3ec3.jpg)
 ![15123123_1494351587248762_5936071344794293642_o](https://cloud.githubusercontent.com/assets/17496439/20530163/3b4f8e40-b0db-11e6-98c9-b497a47ef6e0.jpg)
-![Uploading 15168835_1494351723915415_4953989405934551304_o.jpg…]()
+
