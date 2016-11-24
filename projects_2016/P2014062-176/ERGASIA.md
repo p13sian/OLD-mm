@@ -1,9 +1,9 @@
 
 ΓΕΩΡΓΙΟΣ ΠΑΝΟΠΟΥΛΟΣ 
-ΑΜ : P2014062
+ΑΜ : Π2014062
 
 ΓΕΩΡΓΙΟΣ ΔΟΙΤΣΙΝΗΣ
-ΑΜ : P2014176
+ΑΜ : Π2014176
 
 
 ##Παραδοτέο 1
@@ -13,6 +13,11 @@ New media applications (Unreal engine)
 ...
 
 ##Παραδοτέο 2
+
+Σε αυτό το link υπάρχει το παραδοτέο 2 σε power point
+
+https://www.dropbox.com/s/pa0vljc8y4aj062/Paradoteo%202.odp?dl=0
+
 
 
 …
