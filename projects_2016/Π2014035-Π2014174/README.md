@@ -41,7 +41,15 @@ https://www.youtube.com/playlist?list=PLZlv_N0_O1gZAjYuGIwtOHigppYa3CVLh
 
 ##Παραδοτέο 3
 
-...
+Ενημέρωση προόδου στο GitHub
+Screenshots από την δημιουργία checkpoints στην πίστα όπως επίσης και ο κώδικας που γράψαμε για τη δημιουργία τους
+
+![screen shot 2016-12-01 at 23 31 22](https://cloud.githubusercontent.com/assets/17296039/20813646/104dfe2a-b81f-11e6-897f-d73148d49e58.png)
+
+![screen shot 2016-12-01 at 23 34 23](https://cloud.githubusercontent.com/assets/17296039/20813648/104fb8fa-b81f-11e6-96c8-440275202afa.png)
+
+![screen shot 2016-12-01 at 23 34 33](https://cloud.githubusercontent.com/assets/17296039/20813647/104f9be0-b81f-11e6-9f89-54425e769163.png)
+
 
 ##Παραδοτέο 4
 
