@@ -53,7 +53,6 @@ Screenshots από την δημιουργία checkpoints στην πίστα �
 3/12/16
 ![screen shot 2016-12-02 at 21 23 42](https://cloud.githubusercontent.com/assets/17296039/20860765/b6fb7616-b988-11e6-8912-160df17590d2.png)
 ![screen shot 2016-12-02 at 22 27 02](https://cloud.githubusercontent.com/assets/17296039/20860766/be80b5ea-b988-11e6-8032-3a24f0e9b9e7.png)
-![screen shot 2016-12-02 at 22 27 02](https://cloud.githubusercontent.com/assets/17296039/20860768/c901a952-b988-11e6-9391-94f4e87a1088.png)
 ![screen shot 2016-12-03 at 00 07 17](https://cloud.githubusercontent.com/assets/17296039/20860769/d6c0c76c-b988-11e6-947c-3aa384ecd94e.png)
 ![screen shot 2016-12-02 at 21 41 30](https://cloud.githubusercontent.com/assets/17296039/20860778/46663de0-b989-11e6-8bdb-2c94c584fe3b.png)
 
