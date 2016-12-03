@@ -44,12 +44,18 @@ https://www.youtube.com/playlist?list=PLZlv_N0_O1gZAjYuGIwtOHigppYa3CVLh
 Ενημέρωση προόδου στο GitHub -> 
 
 Screenshots από την δημιουργία checkpoints στην πίστα όπως επίσης και ο κώδικας που γράψαμε για τη δημιουργία τους
-
+2/12/16
 ![screen shot 2016-12-01 at 23 31 22](https://cloud.githubusercontent.com/assets/17296039/20813646/104dfe2a-b81f-11e6-897f-d73148d49e58.png)
 
 ![screen shot 2016-12-01 at 23 34 23](https://cloud.githubusercontent.com/assets/17296039/20813648/104fb8fa-b81f-11e6-96c8-440275202afa.png)
 
 ![screen shot 2016-12-01 at 23 34 33](https://cloud.githubusercontent.com/assets/17296039/20813647/104f9be0-b81f-11e6-9f89-54425e769163.png)
+3/12/16
+![screen shot 2016-12-02 at 21 23 42](https://cloud.githubusercontent.com/assets/17296039/20860765/b6fb7616-b988-11e6-8912-160df17590d2.png)
+![screen shot 2016-12-02 at 22 27 02](https://cloud.githubusercontent.com/assets/17296039/20860766/be80b5ea-b988-11e6-8032-3a24f0e9b9e7.png)
+![screen shot 2016-12-02 at 22 27 02](https://cloud.githubusercontent.com/assets/17296039/20860768/c901a952-b988-11e6-9391-94f4e87a1088.png)
+![screen shot 2016-12-03 at 00 07 17](https://cloud.githubusercontent.com/assets/17296039/20860769/d6c0c76c-b988-11e6-947c-3aa384ecd94e.png)
+![screen shot 2016-12-02 at 21 41 30](https://cloud.githubusercontent.com/assets/17296039/20860778/46663de0-b989-11e6-8bdb-2c94c584fe3b.png)
 
 
 ##Παραδοτέο 4
