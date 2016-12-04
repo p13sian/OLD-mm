@@ -50,11 +50,16 @@ Screenshots από την δημιουργία checkpoints στην πίστα �
 ![screen shot 2016-12-01 at 23 34 23](https://cloud.githubusercontent.com/assets/17296039/20813648/104fb8fa-b81f-11e6-96c8-440275202afa.png)
 
 ![screen shot 2016-12-01 at 23 34 33](https://cloud.githubusercontent.com/assets/17296039/20813647/104f9be0-b81f-11e6-9f89-54425e769163.png)
-3/12/16
+3/12/16 σύστημα που κάθε φορά που περνάς μέσα από ένα checkpoint εξαφανίζεται και εμφανίζεται το επόμενο
 ![screen shot 2016-12-02 at 21 23 42](https://cloud.githubusercontent.com/assets/17296039/20860765/b6fb7616-b988-11e6-8912-160df17590d2.png)
 ![screen shot 2016-12-02 at 22 27 02](https://cloud.githubusercontent.com/assets/17296039/20860766/be80b5ea-b988-11e6-8032-3a24f0e9b9e7.png)
 ![screen shot 2016-12-03 at 00 07 17](https://cloud.githubusercontent.com/assets/17296039/20860769/d6c0c76c-b988-11e6-947c-3aa384ecd94e.png)
 ![screen shot 2016-12-02 at 21 41 30](https://cloud.githubusercontent.com/assets/17296039/20860778/46663de0-b989-11e6-8bdb-2c94c584fe3b.png)
+4/12/16 εισαγωγή χρονόμετρου για το κάθε Lap και για τον συνολικό χρόνο όπως επίσης και κράτηση του best lap time και best game time 
+![screen shot 2016-12-03 at 21 31 13](https://cloud.githubusercontent.com/assets/17296039/20863184/6eb1e708-b9cb-11e6-9538-943ccb396558.png)
+![screen shot 2016-12-04 at 00 52 06](https://cloud.githubusercontent.com/assets/17296039/20863186/752e2c2c-b9cb-11e6-9351-1de08c6ca4ae.png)
+![screen shot 2016-12-03 at 21 00 34](https://cloud.githubusercontent.com/assets/17296039/20863190/81d7e7d8-b9cb-11e6-9b85-0de4124d639f.png)
+
 
 
 ##Παραδοτέο 4
