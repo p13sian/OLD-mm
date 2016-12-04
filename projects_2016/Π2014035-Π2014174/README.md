@@ -59,8 +59,10 @@ Screenshots από την δημιουργία checkpoints στην πίστα �
 ![screen shot 2016-12-03 at 21 31 13](https://cloud.githubusercontent.com/assets/17296039/20863184/6eb1e708-b9cb-11e6-9538-943ccb396558.png)
 ![screen shot 2016-12-04 at 00 52 06](https://cloud.githubusercontent.com/assets/17296039/20863186/752e2c2c-b9cb-11e6-9351-1de08c6ca4ae.png)
 ![screen shot 2016-12-03 at 21 00 34](https://cloud.githubusercontent.com/assets/17296039/20863190/81d7e7d8-b9cb-11e6-9b85-0de4124d639f.png)
-
-
+4/12/16 Υλοποίηση HUD για εμφάνιση των καλυτερων χρόνων κατά τη διάρκεια του gameplay
+![screen shot 2016-12-04 at 20 36 32](https://cloud.githubusercontent.com/assets/17296039/20868893/b1d2c60c-ba6f-11e6-834c-b2b5b61de287.png)
+![screen shot 2016-12-04 at 21 12 01](https://cloud.githubusercontent.com/assets/17296039/20868894/b1d6ed22-ba6f-11e6-9581-b13ccede3779.png)
+![screen shot 2016-12-04 at 21 24 32](https://cloud.githubusercontent.com/assets/17296039/20868895/b1d9077e-ba6f-11e6-8b41-34de14ba0a5a.png)
 
 ##Παραδοτέο 4
 
