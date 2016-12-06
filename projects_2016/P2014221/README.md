@@ -96,7 +96,7 @@ https://www.youtube.com/watch?annotation_id=annotation_3111735289&feature=iv&ind
 https://www.youtube.com/watch?v=H28AJulyJ3w
 https://www.youtube.com/watch?v=LiPYy2DnLIQ
 https://www.youtube.com/watch?v=tFyN4AlYN6w
-
+https://www.youtube.com/watch?v=0ewSSlTG2xo
 
 Για τους 3d animated χαρακτήρες, έκανα μια αναζήτηση για free 3d animated models.
 http://tf3dm.com/download-page.php?url=death-knight-rig-12712
