@@ -29,15 +29,17 @@
 
 ####Βιβλιοθήκες και module που χρησιμοποίησα για την εργασία
 
-Για την κατασκευή και την σωστή λειτουργία της εφαρμογή,από την μεριά του fronted χρησιμοποίησα,αρκετές βιβλιοθήλες της javascript,όπως:
+Για την κατασκευή και την σωστή λειτουργία της εφαρμογή,από την μεριά του fronted χρησιμοποίησα,αρκετές βιβλιοθήλες της javascript αλλά και ένα πολύ καλό template από W3School,όπως:
 
-1)JQuery--http://jquery.com
+1)W3School--http://www.w3schools.com/bootstrap/bootstrap_theme_band.asp
 
-2)AngularJs--https://angularjs.org
+2)JQuery--http://jquery.com
 
-3)Angular(Animate)--https://docs.angularjs.org/guide/animations
+3)AngularJs--https://angularjs.org
 
-4)Socket.io--http://socket.io
+4)Angular(Animate)--https://docs.angularjs.org/guide/animations
+
+5)Socket.io--http://socket.io
 
 ####Εκτέλεση κώδικα
 1)Λήψη του κώδικα
