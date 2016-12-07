@@ -49,6 +49,19 @@ https://www.youtube.com/playlist?list=PLZlv_N0_O1gZAjYuGIwtOHigppYa3CVLh
 
 Ξεκινήσαμε το project μας από το έτοιμο παράδειγμα που δίνει η Unreal Engine 4
 Σε όλους τους χρήστες, το οποίο περιέχει τα βασικά χαρακτηριστικά ενός απλού racing game. Στη συνέχεια παρακολουθήσαμε tutorials στο youtube τα οποία περιείχαν οδηγίες για την δημιουργία ενός παιχνιδιού τύπου “time attack”. Οι ενέργειες που κάναμε ήταν: Δημιουργία καινούριων blueprints στο υπάρχων παράδειγμα της unreal και προγραμματισμός αυτών για να εκτελούν συγκεκριμένες λειτουργίες.
+Βασιστήκαμε στην playlist από tutorials της Unreal: https://www.youtube.com/playlist?list=PLZlv_N0_O1gYdhCvvMKGpCF6LCgBz9XeS
+και πιο συγκεκριμένα στα βίντεο:
+   * Project Creation & Prep Work (https://goo.gl/AplJRc)
+   * Setting up the Checkpoint Blueprint (https://goo.gl/dSjTGX)
+   * Checkpoint Tracker Variables & Functions (https://goo.gl/BKE9K5)
+   * Checkpoint Tracker Event Graph Script (https://goo.gl/I7c9hN)
+   * Checkpoint Tracker Functions & Testing (https://goo.gl/h7H6Ln)
+   * Lap Display & Respawn Handling (https://goo.gl/GFiSUK)
+   * Race & Lap Timers (https://goo.gl/OLN1yT)
+   * Checking for Lap & Race Records (https://goo.gl/w57v69)
+   * Save Game System (https://goo.gl/c0M8DW)
+   * In-Game HUD Creation (https://goo.gl/Bks0G5)
+
 
 ###3.Μελλοντικές αλλαγές.
 
