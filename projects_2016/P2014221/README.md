@@ -88,7 +88,7 @@ Augmented Reality Application
 ![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081566_zpsmzmvhgmx.jpg)
 
 
-**ΕΠΙΠΛΕΟΝ ΕΙΚΟΝΕΣ ΜΕ ΛΕΙΤΟΥΡΓΙΚΟΤΗΤΑ ΜΕΙΩΣΗΣ ΠΟΝΤΩΝ ΕΝΕΡΓΕΙΑΣ ΤΟΥ ΚΑΘΕ ΧΑΡΑΚΤΗΡΑ
+**ΕΠΙΠΛΕΟΝ ΕΙΚΟΝΕΣ ΜΕ ΛΕΙΤΟΥΡΓΙΚΟΤΗΤΑ ΜΕΙΩΣΗΣ ΠΟΝΤΩΝ ΕΝΕΡΓΕΙΑΣ ΤΟΥ ΚΑΘΕ ΧΑΡΑΚΤΗΡΑ**
 
 ![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/PC071559.JPG)
 ![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/PC071562.JPG)
