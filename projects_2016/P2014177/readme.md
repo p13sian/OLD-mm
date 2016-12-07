@@ -11,7 +11,12 @@
 ![photo1](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014177/Photo1.png)
 ![photo2](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014177/Photo2.png)
 ###Παραδοτέο 3 (Τελική παρουσίαση έργου για σχολιασμό και βελτιώσεις)
-
+![photo5](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014177/Photo5.png)
+![photo6](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014177/photo6.png)
+![photo7](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014177/photo7.png)
+![photo8](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014177/photo8.png)
+  Αρχικό menu(WIP)
+![photo9](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014177/photo9.png)
 ...
 
 ###Παραδοτέο 4 (Τελική γραπτή αναφορά) (500-1000 λέξεις)
