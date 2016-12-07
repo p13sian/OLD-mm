@@ -1,4 +1,4 @@
-**Τίτλος εργασίας:  Twitter Visualization σε processing **
+**Τίτλος εργασίας:  Twitter Visualization σε processing**
 
 Νελίνα Ανγκέλοβα 
 AM: Π2013122
