@@ -77,9 +77,9 @@
 ![Image](https://github.com/PantelisIoannou/images/blob/master/Thesis3.PNG)
 ![Image](https://github.com/PantelisIoannou/images/blob/master/Thesis2.png)
 
-###Source Code: https://github.com/PantelisIoannou/Mm
+### [Πηγαίος Κώδικας](https://github.com/PantelisIoannou/Mm)
 
 
-[Τελική Αναφορά] (https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012029/Multimedia.pdf)
+###[Τελική Αναφορά] (https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012029/Multimedia.pdf)
 
 
