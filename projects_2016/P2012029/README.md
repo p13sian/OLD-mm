@@ -2,7 +2,7 @@
 
 ##Twitter Visualization(HeatMap and Sentiment Analysis)
 
-####Παντελής Ιωάννου---ΑΜ: P2012029
+####Παντελεήμων Ιωάννου---ΑΜ: P2012029
 
 
 ##Παραδοτέο 1
