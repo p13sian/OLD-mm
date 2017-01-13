@@ -72,6 +72,9 @@ Augmented Reality Application
 -Διόρθωσα τα κουμπιά για τα inventory και για τους διάφορους χάρτες.
 -Είχα βάλει networking αλλά ενώ δούλευε ο μηχανισμός γενικά, προέκυψαν κάποια προβλήματα που πρέπει να τα ψάξω καλύτερα γιατί σχεδόν πήγε να καταστραφεί το project.**
 
+**UPDATE 13/1/2017
+-Πρόσθεσα κείμενο στα healthbars που δείχνει το maximum Health του κάθε χαρακτήρα, και το οποίο μειώνεται ανάλογα την τρέχουσα τιμή του Health.
+
 
 **ΑΡΧΙΚΑ ΣΚΙΤΣΑ ΠΡΟΣΧΕΔΙΑΣΜΟΥ ΤΗΣ ΕΦΑΡΜΟΓΗΣ**
 
@@ -102,6 +105,11 @@ Augmented Reality Application
 ![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/PC071563.JPG)
 ![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/PC071564.JPG)
 ![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/PC071567.JPG)
+
+**ΕΠΙΠΛΕΟΝ ΕΙΚΟΝΕΣ ΜΕ ΚΕΙΜΕΝΟ ΣΤΟ HEALTHBAR ΤΟΥ ΚΑΘΕ ΧΑΡΑΚΤΗΡΑ**
+
+![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/P1131561.JPG)
+![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/P1131566.JPG)
 
 **Links απο σχετικά εκπαιδευτικά video που παρακολούθησα**
 
