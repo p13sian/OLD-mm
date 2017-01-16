@@ -1,4 +1,6 @@
-                                              ![Ιόνιο Πανεπιστήμιο](logo-ionio-black-150x150.jpg)
+τεστ|...|...
+------------
+|![Ιόνιο Πανεπιστήμιο](logo-ionio-black-150x150.jpg)|
 
 # Facebook Messenger Bot
 
