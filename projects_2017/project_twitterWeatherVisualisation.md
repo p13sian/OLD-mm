@@ -8,16 +8,16 @@
 ## Οδηγίες
 Για βασικές κατευθύνσεις και οδηγίες μπορείτε να ανατρέξετε στην παρακάτω ιστοσελίδα: **[http://blog.landspurg.net/node-js-tutorial-real-time-geolocalized-tweets/](http://blog.landspurg.net/node-js-tutorial-real-time-geolocalized-tweets/)**
 Επίσης, ένα καλό παράδειγμα αντίστοιχης εφαρμογής (κώδικας) μπορείτε να βρείτε στη διεύθυνση:
-[https://github.com/wintershammer/CrowdWeatherMM](https://github.com/wintershammer/CrowdWeatherMM)
+**[https://github.com/wintershammer/CrowdWeatherMM](https://github.com/wintershammer/CrowdWeatherMM)**
 
 Οι τεχνολογίες που μπορούν να αξιοποιηθούν βάσει του παραδείγματος είναι:
-- [x] Javascript/HTML/CSS,
-- [x] node.js
+- [x] **Javascript**/**HTML**/**CSS**,
+- [x] **node.js**
 και
-- [x] Socket.io για την διεπαφή server/client,
-- [x] twit για την συλλογή tweets,
-- [x] leaflet για τον χάρτη/heatmap
-- [x] Heroku για web host.
+- [x] **socket.io** για την διεπαφή server/client,
+- [x] **twit** για την συλλογή tweets,
+- [x] **leaflet** για τον χάρτη/heatmap
+- [x] **Heroku** για web host.
 
 ## Αξιολόγηση
 * Έχουν ολοκληρωθεί με επιτυχία τα βήματα της κάθε εγκατάστασης (**5 μονάδες**).
