@@ -108,7 +108,7 @@
 
 **Διάγραμμα λειτουργίας**
 
-![Image]()
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2012029/Flow%20Chart.PNG)
 
 **Μελλοντική δουλειά**
 
