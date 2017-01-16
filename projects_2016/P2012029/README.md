@@ -41,6 +41,8 @@
 
 5)Socket.io--http://socket.io
 
+6)Sentiment--https://github.com/PantelisIoannou/Mm/tree/master/node_modules/sentiment
+
 ####Εκτέλεση κώδικα
 1)Λήψη του κώδικα
 
