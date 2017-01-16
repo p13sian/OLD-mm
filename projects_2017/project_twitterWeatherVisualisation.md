@@ -3,7 +3,7 @@
 # Twitter & Weather Visualisation
 
 ## Εκφώνηση
-Να δημιουργήσετε ένα σύστημα **real-time** ανάλυσης και **visualisation** καιρικών φαινομένων μέσω **tweets*.
+Να δημιουργήσετε ένα σύστημα **real-time** ανάλυσης και **visualisation** καιρικών φαινομένων μέσω **tweets**.
 
 ## Οδηγίες
 Για βασικές κατευθύνσεις και οδηγίες μπορείτε να ανατρέξετε στην παρακάτω ιστοσελίδα: [http://blog.landspurg.net/node-js-tutorial-real-time-geolocalized-tweets/](http://blog.landspurg.net/node-js-tutorial-real-time-geolocalized-tweets/)
