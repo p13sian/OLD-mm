@@ -11,13 +11,13 @@
 **[https://github.com/wintershammer/CrowdWeatherMM](https://github.com/wintershammer/CrowdWeatherMM)**
 
 Οι τεχνολογίες που μπορούν να αξιοποιηθούν βάσει του παραδείγματος είναι:
-- [x] **Javascript**/**HTML**/**CSS**,
-- [x] **node.js**
+- [x] **Javascript**/**HTML**/**CSS**
+- [x] **Node.js**
 και
-- [x] **socket.io** για την διεπαφή server/client,
-- [x] **twit** για την συλλογή tweets,
-- [x] **leaflet** για τον χάρτη/heatmap
-- [x] **Heroku** για web host.
+- [x] **Socket.io** για την διεπαφή server/client
+- [x] **Twit** για την συλλογή tweets
+- [x] **Leaflet** για τον χάρτη/heatmap
+- [x] **Heroku** για web host
 
 ## Αξιολόγηση
 * Έχουν ολοκληρωθεί με επιτυχία τα βήματα της κάθε εγκατάστασης (**5 μονάδες**).
