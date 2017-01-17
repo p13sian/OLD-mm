@@ -17,7 +17,7 @@
 
 ####Αλλαγές από τον κώδικα που παραδειγματίστηκα:
 
-1)Αλλαγή του module που συνδέεται στο twitter app stream(server.js)
+1)Αλλαγή του module που συνδέεται στο twitter app stream(tweet.js)
 
 2)Αλλαγή χάρτη google maps και ειδικό customization(με αχεία τηε javascript).
 
