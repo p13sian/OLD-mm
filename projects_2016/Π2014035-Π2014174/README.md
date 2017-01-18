@@ -132,12 +132,16 @@ https://www.youtube.com/playlist?list=PLZlv_N0_O1gZAjYuGIwtOHigppYa3CVLh
 Παράλληλα, ασχοληθήκαμε με την δημιουργία συστήματος φωτισμού σε όλη την επιφάνεια της πίστας , έτσι ώστε να μην υπάρχουν σημεία χωρίς καθόλου φώς – blind spots ώστε ο παίκτης να μπορεί να κινηθεί εύκολα μέσα στο χώρο και να βρίσκει τον δρόμο-το επόμενο checkpoint ακόμα πιο εύκολα.
 Επιπρόσθετα, προσθέσαμε στο HUD το Best time , το οποίο ενημερώνει τον χρήστη για το ενδεχόμενο να έχει πετύχει κάποιο ρεκόρ στην πίστα, αφού αποθηκεύει τους χρόνους και του ςσυγκρίνει μεταξύ τους βγάζοντας τελικά στην οθόνη το αποτέλεσμα μετά τον τερματισμό.
 
+####Screenshots
+![highresscreenshot00000](https://cloud.githubusercontent.com/assets/17296039/22068456/c513d430-dd9d-11e6-9a7b-536e082ce825.png)
+![highresscreenshot00002](https://cloud.githubusercontent.com/assets/17296039/22068461/c516f642-dd9d-11e6-8cee-068316902c7f.png)
+![highresscreenshot00003](https://cloud.githubusercontent.com/assets/17296039/22068457/c5155c10-dd9d-11e6-9a37-38a5dc43d168.png)
+![highresscreenshot00004](https://cloud.githubusercontent.com/assets/17296039/22068459/c5168d2e-dd9d-11e6-87a3-9fe751c7db38.png)
+![highresscreenshot00005](https://cloud.githubusercontent.com/assets/17296039/22068458/c51502f6-dd9d-11e6-9e4b-35818c286d9e.png)
+![highresscreenshot00006](https://cloud.githubusercontent.com/assets/17296039/22068460/c516a6c4-dd9d-11e6-8336-307b54de346e.png)
+
 ###Game Trailer
 https://youtu.be/_8o5Z9eIRzg
-
-####Screenshots
-
-
 
 ##bonus (links από εικόνες) Παναγιώτης Σωτήριος Ζουγγουρίδης Π2014174
 1. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch01/uber_screenshot_ch1.jpg
