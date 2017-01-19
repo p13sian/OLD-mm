@@ -80,8 +80,6 @@
 
 
 ![Image](https://github.com/PantelisIoannou/images/blob/master/Thesis1.png)
-![Image](https://github.com/PantelisIoannou/images/blob/master/Thesis3.PNG)
-![Image](https://github.com/PantelisIoannou/images/blob/master/Thesis2.png)
 
 
 ##Τελική Αναφορά
@@ -111,11 +109,12 @@ http://www.w3schools.com/bootstrap/bootstrap_theme_band.asp
 Τέλος,αμέσως μετά την επιτυχή ενσωμάτωση του χάρτη,στην ιστοσελίδα,ενσωματώθηκαν κατάλληλες βιβλιοθήκες της JavaScript,για την σωστή λειτουργία της εφαρμογής.
 
 
-
-
 **Αναλυτική περιγραφή**
 
 Με την είσοδο στην αρχική σελίδα της εφαρμογής MoodTrack,o χρήστης βλέπει έναν παγκόσμιο χάρτη της Google,ειδικά φτιαγμένο έτσι ώστε να μην προβάλλονται άχρηστες πληροφορίες και πολλές λεπτομέρειες.Η ροή των tweets,έχει ήδη ξεκινήσει και ο χρήστης μπορεί να τα δεί,καμουφλαρισμένα αρχικά με emoticons.Αν το επιθυμεί κλικάροντας οποιοδήποτε μπορεί να δεί τις πληροφορίες του.Αν το επιθυμεί ψηλά δεξιά στην οθόνη μπορεί να εισάγει κάποιο keyword για να αναζητήσει συγκεκριμένα tweets.Τέλος,κλικάροντας ψηλά αριστερά την κατηγορία INFO μπορεί να δεί πληροφορίες της εφαρμογής.
+
+![Image](https://github.com/PantelisIoannou/images/blob/master/Thesis3.PNG)
+![Image](https://github.com/PantelisIoannou/images/blob/master/Thesis2.png)
 
 **Διάγραμμα λειτουργίας**
 
