@@ -23,7 +23,7 @@
 
 1)Αλλαγή του module που συνδέεται στο twitter app stream(tweet.js)
 
-2)Αλλαγή χάρτη google maps και ειδικό customization(με αρχεία τηε javascript).
+2)Αλλαγή χάρτη google maps και ειδικό customization(με αρχεία της javascript).
 
 3)Αλλαγή της βιβίοθήλης leaflet η οποία δεν ταιριάζει στο data rate του twitter app stream.
 
