@@ -99,7 +99,7 @@ Augmented Reality Application
 
 **VIDEO DEMONSTRATION OF APPLICATION**
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v4TM4E3mnWQ/0.jpg)](https://www.youtube.com/watch?v=v4TM4E3mnWQ)
+[![VIDEO DEMONSTRATION](https://img.youtube.com/vi/watch?v=v4TM4E3mnWQ/0.jpg)](https://www.youtube.com/watch?v=v4TM4E3mnWQ)
 
 **ΕΠΙΠΛΕΟΝ ΕΙΚΟΝΕΣ ΜΕ ΛΕΙΤΟΥΡΓΙΚΟΤΗΤΑ ΜΕΙΩΣΗΣ ΠΟΝΤΩΝ ΕΝΕΡΓΕΙΑΣ ΤΟΥ ΚΑΘΕ ΧΑΡΑΚΤΗΡΑ**
 
