@@ -97,6 +97,9 @@ Augmented Reality Application
 
 ![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081566_zpsmzmvhgmx.jpg)
 
+**VIDEO DEMONSTRATION OF APPLICATION**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v4TM4E3mnWQ/0.jpg)](https://www.youtube.com/watch?v=v4TM4E3mnWQ)
 
 **ΕΠΙΠΛΕΟΝ ΕΙΚΟΝΕΣ ΜΕ ΛΕΙΤΟΥΡΓΙΚΟΤΗΤΑ ΜΕΙΩΣΗΣ ΠΟΝΤΩΝ ΕΝΕΡΓΕΙΑΣ ΤΟΥ ΚΑΘΕ ΧΑΡΑΚΤΗΡΑ**
 
