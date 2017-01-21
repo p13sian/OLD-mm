@@ -75,6 +75,12 @@ Augmented Reality Application
 **UPDATE 13/1/2017**
 -Πρόσθεσα κείμενο στα healthbars που δείχνει το maximum Health του κάθε χαρακτήρα, και το οποίο μειώνεται ανάλογα την τρέχουσα τιμή του Health.
 
+**UPDATE 21/1/2017**
+-Ανέβασα το video demonstration της εφαρμογής, στο youtube. 
+-Πατόντας το thumbnail παρακάτω, ανοίγει το video στο youtube.
+
+[![VIDEO DEMONSTRATION OF APPLICATION](https://i9.ytimg.com/vi/v4TM4E3mnWQ/3.jpg?sqp=CMDljcQF&rs=AOn4CLAgp_so85hmSyEvIJUIqZtGYVANPQ&time=1485009730610)](https://www.youtube.com/watch?v=v4TM4E3mnWQ)
+
 
 **ΑΡΧΙΚΑ ΣΚΙΤΣΑ ΠΡΟΣΧΕΔΙΑΣΜΟΥ ΤΗΣ ΕΦΑΡΜΟΓΗΣ**
 
@@ -98,9 +104,9 @@ Augmented Reality Application
 
 ![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081566_zpsmzmvhgmx.jpg)
 
-**VIDEO DEMONSTRATION OF APPLICATION**
 
-[![VIDEO DEMONSTRATION](https://i9.ytimg.com/vi/v4TM4E3mnWQ/3.jpg?sqp=CMDljcQF&rs=AOn4CLAgp_so85hmSyEvIJUIqZtGYVANPQ&time=1485009730610)](https://www.youtube.com/watch?v=v4TM4E3mnWQ)
+
+
 
 **ΕΠΙΠΛΕΟΝ ΕΙΚΟΝΕΣ ΜΕ ΛΕΙΤΟΥΡΓΙΚΟΤΗΤΑ ΜΕΙΩΣΗΣ ΠΟΝΤΩΝ ΕΝΕΡΓΕΙΑΣ ΤΟΥ ΚΑΘΕ ΧΑΡΑΚΤΗΡΑ**
 
