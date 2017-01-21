@@ -11,7 +11,7 @@ Augmented Reality Application
 
 ΓΡΑΠΤΗ ΑΝΑΦΟΡΑ---
 
-![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/DungeonsAndDragonsLogo_zps0hrx2zpp.jpg)
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/DungeonsAndDragonsLogo_zps0hrx2zpp.jpg)  
 **Δημιουργία εφαρμογής Augmented Reality**
 
 ***AUGMENTED DUNGEONS & DRAGONS***
