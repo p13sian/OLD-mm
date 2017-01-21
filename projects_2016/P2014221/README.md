@@ -86,7 +86,7 @@ Augmented Reality Application
 
 **(**διάφορα γρήγορα σκίτσα και κείμενο στα οποία σχεδίασα πώς ήθελα να λειτουργεί η εφαρμογή**)**
 
-![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/%CE%A02014221/Images/AugmentationToolForDnD_roughSketch.jpg)
+![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/AugmentationToolForDnD_roughSketch.jpg)
 ![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/Sketching_zpsxzqycbyj.jpg)
 **ΕΙΚΟΝΕΣ**
 **(**διάφορες εικόνες από την εφαρμογή**)**
