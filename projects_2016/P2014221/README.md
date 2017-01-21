@@ -80,7 +80,8 @@ Augmented Reality Application
 
 **(**διάφορα γρήγορα σκίτσα και κείμενο στα οποία σχεδίασα πώς ήθελα να λειτουργεί η εφαρμογή**)**
 
-![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/%CE%A02014221/Images/AugmentationToolForDnD_roughSketch.jpg)![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/Sketching_zpsxzqycbyj.jpg)
+![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/%CE%A02014221/Images/AugmentationToolForDnD_roughSketch.jpg)
+![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/Sketching_zpsxzqycbyj.jpg)
 **ΕΙΚΟΝΕΣ**
 **(**διάφορες εικόνες από την εφαρμογή**)**
 ![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081557_zps7iqvlbya.jpg)
@@ -99,7 +100,7 @@ Augmented Reality Application
 
 **VIDEO DEMONSTRATION OF APPLICATION**
 
-[![VIDEO DEMONSTRATION](https://img.youtube.com/vi/watch?v=v4TM4E3mnWQ/0.jpg)](https://www.youtube.com/watch?v=v4TM4E3mnWQ)
+[![VIDEO DEMONSTRATION](https://i9.ytimg.com/vi/v4TM4E3mnWQ/3.jpg?sqp=CMDljcQF&rs=AOn4CLAgp_so85hmSyEvIJUIqZtGYVANPQ&time=1485009730610)](https://www.youtube.com/watch?v=v4TM4E3mnWQ)
 
 **ΕΠΙΠΛΕΟΝ ΕΙΚΟΝΕΣ ΜΕ ΛΕΙΤΟΥΡΓΙΚΟΤΗΤΑ ΜΕΙΩΣΗΣ ΠΟΝΤΩΝ ΕΝΕΡΓΕΙΑΣ ΤΟΥ ΚΑΘΕ ΧΑΡΑΚΤΗΡΑ**
 
