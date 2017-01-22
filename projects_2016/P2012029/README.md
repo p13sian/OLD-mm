@@ -52,6 +52,8 @@
 
 2)Εγκατάσταση γλώσσας node.js και εγκατάσταση module express για την δυνατότητα δημιουργίας του server έυκολα με την Node.js
 
+3)Εκτέλεση από command prompt της εντολής npm install μέσα στο directory του project.
+
 Λήψη Node.js--https://nodejs.org
 
 Λήψη Express--http://expressjs.com
