@@ -79,7 +79,7 @@ Augmented Reality Application
 -Ανέβασα το video demonstration της εφαρμογής, στο youtube. 
 -Πατόντας το thumbnail παρακάτω, ανοίγει το video στο youtube.
 
-[![VIDEO DEMONSTRATION OF APPLICATION](https://i9.ytimg.com/vi/v4TM4E3mnWQ/3.jpg?sqp=CMDljcQF&rs=AOn4CLAgp_so85hmSyEvIJUIqZtGYVANPQ&time=1485009730610)](https://www.youtube.com/watch?v=v4TM4E3mnWQ)
+[![VIDEO DEMONSTRATION OF APPLICATION](https://i.ytimg.com/vi/v4TM4E3mnWQ/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=glXjVaXOOY9DNrBQOaUPTjXkWnU)](https://www.youtube.com/watch?v=v4TM4E3mnWQ)
 
 
 **ΑΡΧΙΚΑ ΣΚΙΤΣΑ ΠΡΟΣΧΕΔΙΑΣΜΟΥ ΤΗΣ ΕΦΑΡΜΟΓΗΣ**
