@@ -105,8 +105,9 @@ Augmented Reality Application
 ![D&D logo](http://i1380.photobucket.com/albums/ah166/Konstantinos_Skenteridis/PB081566_zpsmzmvhgmx.jpg)
 
 
-
-
+**ΔΙΑΓΡΑΜΜΑ ΛΕΙΤΟΥΡΓΙΑΣ**
+![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/diagrammaleitourgias1.jpg)
+![D&D logo](https://github.com/courses-ionio/mm/blob/master/projects_2016/P2014221/ProjectImages/diagrammaleitourgias2.jpg)
 
 **ΕΠΙΠΛΕΟΝ ΕΙΚΟΝΕΣ ΜΕ ΛΕΙΤΟΥΡΓΙΚΟΤΗΤΑ ΜΕΙΩΣΗΣ ΠΟΝΤΩΝ ΕΝΕΡΓΕΙΑΣ ΤΟΥ ΚΑΘΕ ΧΑΡΑΚΤΗΡΑ**
 
