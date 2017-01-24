@@ -33,4 +33,4 @@ Twitter Visualization σε processing
 ![alt tag](https://i.imgsafe.org/7ac862ee5e.png)
 Παρατίθεται και screenshot κατά τη λειτουργία της εφαρμογής, όπου φαίνεται ξεκάθαρα όλη η διαδραστικότητα (counters, μπάρες, mini photo profiles κλπ):
 ![alt tag](https://i.imgsafe.org/7ad519b5f9.png)
-Ο κώδικας μπορεί να βρεθεί στο https://github.com/AngelovaNelly .
+Το αρχείο με τον κώδικα του processing βρίσκεται στο φάκελο όπου περιέχεται η παρούσα αναφορά.
