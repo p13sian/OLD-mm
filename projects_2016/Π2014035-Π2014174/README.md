@@ -143,6 +143,23 @@ https://www.youtube.com/playlist?list=PLZlv_N0_O1gZAjYuGIwtOHigppYa3CVLh
 ###Game Trailer
 https://youtu.be/_8o5Z9eIRzg
 
+###Βιβλιογραφία
+* Foliage Starter Kit Download link (https://goo.gl/P1vsrq)
+* Free Vegetation Pack (Migration) (https://goo.gl/tkh9Mi)
+* Free Vegetation Pack (Showcase) (https://goo.gl/kntbNC)
+* Texturing a Landscape in UE4 (https://goo.gl/H1vAmH)
+* Project Creation & Prep Work (https://goo.gl/AplJRc)
+* Setting up the Checkpoint Blueprint (https://goo.gl/dSjTGX)
+* Checkpoint Tracker Variables & Functions (https://goo.gl/BKE9K5)
+* Checkpoint Tracker Event Graph Script (https://goo.gl/I7c9hN)
+* Checkpoint Tracker Functions & Testing (https://goo.gl/h7H6Ln)
+* Lap Display & Respawn Handling (https://goo.gl/GFiSUK)
+* Race & Lap Timers (https://goo.gl/OLN1yT)
+* Checking for Lap & Race Records (https://goo.gl/w57v69)
+* Save Game System (https://goo.gl/c0M8DW)
+* In-Game HUD Creation (https://goo.gl/Bks0G5)
+
+
 ##bonus (links από εικόνες) Παναγιώτης Σωτήριος Ζουγγουρίδης Π2014174
 1. https://github.com/p14zoun/pibookgr/blob/gh-pages/images/ch01/uber_screenshot_ch1.jpg
 
