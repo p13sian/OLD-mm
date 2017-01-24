@@ -18,7 +18,7 @@ Twitter Visualization σε processing
 **Διαδικασία ανάπτυξης με ενδεικτικές οθόνες:**
 Έπειτα από τη δημιουργία λογαριασμού twitter και την απόκτιση oAuth στοιχείων- κωδικών,με τη βοήθεια tutorials όπως 
 αυτό http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter και συμβουλές από forums όπως του Processing Forum, δημιουργήθηκε το αρχικό processing sketch.
-[!alt tag](https://i.imgsafe.org/7a94d4dcb0.png)
+![alt tag](https://i.imgsafe.org/7a94d4dcb0.png)
 Αρχικά φτιάχτηκαν μπάρες με διαφορετικά χρώματα που περιέχουν τους counters και τις λέξεις κλειδιά. 
 Στο background, αρχικός σκοπός ήταν να εμφανίζεται κάποιο random text των tweet στην οθόνη και να εξαφανίζεται μετά από
 δευτερόλεπτα. Η σκέψη αυτή άλλαξε και πλεόν εμφανίζονται μέσα από random επιλογές μερικά από τα mini profile images των χρηστών στους
