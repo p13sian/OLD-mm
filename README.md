@@ -70,7 +70,7 @@
 **Βιβλίο μαθήματος:** 
 
 * Πολυμέσα Θεωρία και Πράξη", Steinmetz Ralf, 2002, Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN: 978-960-512-330-7 
-* [Multimedia: from Wagner to Virtual Reality](http://www.w2vr.com/contents.html)
+* [Multimedia: from Wagner to Virtual Reality](http://www.w2vr.com/contents.html) --> Σύνοψη της ύλης του μαθήματος
 * [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr)
 
 **Βαθμολογία:** 60% project, 40% Τελική εξέταση
