@@ -136,7 +136,7 @@ http://www.w3schools.com/bootstrap/bootstrap_theme_band.asp
 
 Για την ανάπτυξη της συγκεκριμένης εφαρμογής,απαιτήθηκε η μελέτη και η κατανόηση της λειτουργίας πολλών παρόμοιων εφαρμογών.Εφαρμογές πο οποίος περισσότερες είναι εραστιτεχνικές,δηλαδή κάποια project στο Github αλλά και πιο επαγγελματικές.Για αυτό σκόπιμο είναι να γίνει μια μικρή αναφορά σε αυτές:Tweetping,Tweetbeam,ComSysto,Trendsmap,Cloudberry.
 
-### [Πηγαίος Κώδικας](https://github.com/PantelisIoannou/Multimedia)
+### [Πηγαίος Κώδικας](https://github.com/PantelisIoannou/)
 
 ###[Βίντεο Εφαρμογής] (https://www.youtube.com/watch?v=c5sXo7eu0Bc)
 
