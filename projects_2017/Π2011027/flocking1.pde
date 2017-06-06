@@ -1,7 +1,7 @@
 Flock flock;
 
 void setup() {
-  size(1280, 720);
+  size(720, 480);
   flock = new Flock();
   // Add an initial set of boids into the system
   for (int i = 0; i < 150; i++) {
@@ -59,10 +59,7 @@ class Boid {
     Boid(float x, float y) {
     acceleration = new PVector(0, 0);
 
-    // This is a new PVector method not yet implemented in JS
      velocity = PVector.random2D();
-
-    // Leaving the code temporarily this way so that this example runs in JS
     
 
     position = new PVector(x, y);
@@ -117,20 +114,13 @@ class Boid {
     desired.normalize();
     desired.mult(maxspeed);
 
-    // Above two lines of code below could be condensed with new PVector setMag() method
-    // Not using this method until Processing.js catches up
-    // desired.setMag(maxspeed);
-
-    // Steering = Desired minus Velocity
     PVector steer = PVector.sub(desired, velocity);
     steer.limit(maxforce);  // Limit to maximum steering force
     return steer;
   }
 
   void render() {
-    // Draw a triangle rotated in the direction of velocity
     float theta = velocity.heading2D() + radians(90);
-    // heading2D() above is now heading() but leaving old syntax until Processing.js catches up
     
     fill(500, 250);
     stroke(255);
@@ -146,7 +136,6 @@ class Boid {
     popMatrix();
   }
 
-  // Wraparound
   void borders() {
     if (position.x < -r) position.x = width+r;
     if (position.y < -r) position.y = height+r;
@@ -154,37 +143,25 @@ class Boid {
     if (position.y > height+r) position.y = -r;
   }
 
-  // Separation
-  // Method checks for nearby boids and steers away
   PVector separate (ArrayList<Boid> boids) {
     float desiredseparation = 25.0f;
     PVector steer = new PVector(0, 0, 0);
     int count = 0;
-    // For every boid in the system, check if it's too close
     for (Boid other : boids) {
       float d = PVector.dist(position, other.position);
-      // If the distance is greater than 0 and less than an arbitrary amount (0 when you are yourself)
       if ((d > 0) && (d < desiredseparation)) {
-        // Calculate vector pointing away from neighbor
         PVector diff = PVector.sub(position, other.position);
         diff.normalize();
-        diff.div(d);        // Weight by distance
+        diff.div(d);        
         steer.add(diff);
-        count++;            // Keep track of how many
+        count++;            
       }
     }
-    // Average -- divide by how many
     if (count > 0) {
       steer.div((float)count);
     }
 
-    // As long as the vector is greater than 0
     if (steer.mag() > 0) {
-      // First two lines of code below could be condensed with new PVector setMag() method
-      // Not using this method until Processing.js catches up
-      // steer.setMag(maxspeed);
-
-      // Implement Reynolds: Steering = Desired - Velocity
       steer.normalize();
       steer.mult(maxspeed);
       steer.sub(velocity);
@@ -208,11 +185,6 @@ class Boid {
     }
     if (count > 0) {
       sum.div((float)count);
-      // First two lines of code below could be condensed with new PVector setMag() method
-      // Not using this method until Processing.js catches up
-      // sum.setMag(maxspeed);
-
-      // Implement Reynolds: Steering = Desired - Velocity
       sum.normalize();
       sum.mult(maxspeed);
       PVector steer = PVector.sub(sum, velocity);
