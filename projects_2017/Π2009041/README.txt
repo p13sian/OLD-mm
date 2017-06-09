@@ -19,6 +19,9 @@ Twitter Sentiment Visualization
 ΕΠΙΛΕΓΜΕΝΟ ΕΡΓΑΛΕΙΟ: Για την προαναφερθήσα εφαρμογή χρησιμοποιήθηκε η γλώσσα προγραμματισμού javascript. 
 Επιπρόσθετα έγινε χρήση των πλατφορμών github, pubnub και heroka.
 
+ΣΥΝΔΕΣΜΟΙ ΕΡΓΑΣΙΑΣ: https://github.com/DimitrisChL/twitter-stream-globe/tree/changes
+                    https://github.com/DimitrisChL/twitter-stream-globe/tree/part-b
+					https://weathersenti.herokuapp.com/
 ΔΙΑΔΙΚΑΣΙΑ ΑΝΑΠΤΥΞΗΣ: Σε αρχικό στάδιο επιλέχθηκε το θέμα την εργασία, δηλαδή η ανάλυση συναισθημάτων χρηστών του 
 διαδικτύου μέσω Twitter (Twitter sentiment analysis). Έπειτα μελετήθηκαν τα εργαλεία που θα χρησιμοποιηθούν για την
 εφαρμογή ( pubnub, heroka, github), καθώς και η γλώσσα προγραμματισμό της υλοποίησης (javascript). Σε επόμενο στάδιο
