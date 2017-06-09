@@ -29,3 +29,9 @@ Twitter Sentiment Visualization
 της εφαρμογής προκειμένου να εντοπισθούν λάθη.
 
 ΕΝΔΕΙΚΤΙΚΕΣ ΕΙΚΟΝΕΣ
+![alt text](https://github.com/courses-ionio/OLD-mm/blob/master/projects_2017/%CE%A02009041/gitweather.png)
+![alt text](https://github.com/courses-ionio/OLD-mm/blob/master/projects_2017/%CE%A02009041/heroku.png)
+![alt text](https://github.com/courses-ionio/OLD-mm/blob/master/projects_2017/%CE%A02009041/jschanges.png)
+![alt text](https://github.com/courses-ionio/OLD-mm/blob/master/projects_2017/%CE%A02009041/pubnub.png)
+![alt text](https://github.com/courses-ionio/OLD-mm/blob/master/projects_2017/%CE%A02009041/twitterapp.png)
+![alt text](https://github.com/courses-ionio/OLD-mm/blob/master/projects_2017/%CE%A02009041/weathersentiment.png)
